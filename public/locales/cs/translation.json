@@ -1,0 +1,86 @@
+{
+  "header": {
+    "features": "Funkce",
+    "howItWorks": "Jak to funguje",
+    "about": "O nás",
+    "contact": "Kontakt",
+    "join": "Připojit se"
+  },
+  "hero": {
+    "title": "Voltia Flex: Cashback za nabíjení EV",
+    "subtitle": "Revolucionizujte své zkušenosti s nabíjením EV pomocí udržitelné energie a úspory nákladů.",
+    "getStarted": "Začněte",
+    "learnMore": "Zjistit více"
+  },
+  "features": {
+    "title": "Proč byste měli používat chytré nabíjení s Voltia Flex",
+    "earnMoney": {
+      "title": "Vydělávejte peníze",
+      "description": "Získejte peněžní odměny za vyvažování sítě s Voltia Flex."
+    },
+    "savePlanet": {
+      "title": "Chraňte planetu",
+      "description": "Nabíjejte své vozidlo pomocí udržitelných zdrojů energie."
+    },
+    "offPeakCharging": {
+      "title": "Nabíjení mimo špičku",
+      "description": "Ušetřete na účtu za elektřinu nabíjením mimo špičku."
+    },
+    "softwareBased": {
+      "title": "100% softwarové řešení",
+      "description": "Pro chytré nabíjení s Voltia Flex není potřeba žádný dodatečný hardware."
+    }
+  },
+  "howItWorks": {
+    "title": "Jak funguje Voltia Flex",
+    "otaTechnology": {
+      "title": "Technologie Over-The-Air",
+      "description": "Voltia Flex využívá pokročilou OTA technologii pro komunikaci s vaším elektrickým vozidlem, zajišťující plynulé chytré nabíjení bez dodatečného hardwaru."
+    },
+    "sustainableEnergy": {
+      "title": "Prioritizace udržitelné energie",
+      "description": "Během chytrého nabíjení se vaše auto nabíjí pouze tehdy, když je k dispozici dostatek udržitelné energie, optimalizující nejlepší možnou cenu."
+    },
+    "financialRewards": {
+      "title": "Finanční odměny",
+      "description": "Účastí na chytrém nabíjení uživatelé získávají finanční odměny, což činí volbu udržitelné energie prospěšnou jak pro životní prostředí, tak pro vaši peněženku."
+    },
+    "description": "Řešení chytrého nabíjení Voltia Flex optimalizuje proces nabíjení vašeho elektrického vozidla, zajišťující využití udržitelné energie za nejlepší ceny a zároveň přispívající ke stabilitě sítě.",
+    "registerBeta": "Zaregistrujte se jako Beta uživatel"
+  },
+  "about": {
+    "title": "O Voltia Flex",
+    "paragraph1": "Voltia Flex se zrodila z vize udržitelné budoucnosti, kde elektrická vozidla hrají klíčovou roli při vyvažování naší energetické sítě.",
+    "paragraph2": "Jako průkopníci v technologii chytrého nabíjení jsme si dali za úkol zajistit, aby se elektrická vozidla nabíjela pouze pomocí udržitelné energie a zároveň poskytovala maximální flexibilitu našim uživatelům.",
+    "paragraph3": "Naše inovativní řešení chytrého nabíjení připravuje cestu do budoucnosti, zajišťující, že se vaše auto nabíjí nejudržitelnějším a nákladově nejefektivnějším způsobem. To pomáhá předcházet přetížení sítě a urychluje přechod na čistou energetickou budoucnost."
+  },
+  "footer": {
+    "title": "Rádi bychom od vás slyšeli!",
+    "description": "Pokud používáte aplikaci Voltia Flex, rádi bychom znali vaše zkušenosti. Je něco, co můžeme zlepšit?",
+    "email": "flex@voltia.com",
+    "linkedin": "Sledujte nás na LinkedIn",
+    "faq": "Pro více informací navštivte naši FAQ stránku.",
+    "joinBeta": "Připojte se k našemu Beta programu"
+  },
+  "registration": {
+    "title": "Registrace pro včasný přístup",
+    "backToHome": "Zpět na domovskou stránku",
+    "firstName": "Jméno",
+    "lastName": "Příjmení",
+    "evBrand": "Značka EV",
+    "selectEvBrand": "Vyberte značku EV",
+    "evModel": "Model EV",
+    "evBattery": "Baterie (kWh)",
+    "evYear": "Rok výroby",
+    "energySupplier": "Dodavatel energie",
+    "address": "Adresa",
+    "phone": "Telefon",
+    "email": "Email",
+    "submit": "Registrovat se pro včasný přístup",
+    "submitting": "Odesílání...",
+    "submitError": "Při odesílání formuláře došlo k chybě. Zkuste to prosím znovu.",
+    "thankYou": "Děkujeme za registraci!",
+    "confirmation": "Obdrželi jsme vaše informace a brzy vás budeme kontaktovat ohledně včasného přístupu k Voltia Flex.",
+    "returnHome": "Návrat na domovskou stránku"
+  }
+}

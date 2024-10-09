@@ -1,0 +1,86 @@
+{
+  "header": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "about": "About",
+    "contact": "Contact",
+    "join": "Join"
+  },
+  "hero": {
+    "title": "Voltia Flex: EV Charging CashBack",
+    "subtitle": "Revolutionize your EV charging experience with sustainable energy and cost savings.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "features": {
+    "title": "Why you should Smart Charge with Voltia Flex",
+    "earnMoney": {
+      "title": "Earn Money",
+      "description": "Receive cash rewards for balancing the grid with Voltia Flex."
+    },
+    "savePlanet": {
+      "title": "Save the Planet",
+      "description": "Charge your vehicle using sustainable energy sources."
+    },
+    "offPeakCharging": {
+      "title": "Off-Peak Charging",
+      "description": "Save money on your electricity bill by charging during off-peak hours."
+    },
+    "softwareBased": {
+      "title": "100% Software-Based",
+      "description": "No additional hardware required for smart charging with Voltia Flex."
+    }
+  },
+  "howItWorks": {
+    "title": "How Voltia Flex Works",
+    "otaTechnology": {
+      "title": "Over-The-Air Technology",
+      "description": "Voltia Flex uses advanced OTA technology to communicate with your electric vehicle, ensuring seamless Smart Charging without additional hardware."
+    },
+    "sustainableEnergy": {
+      "title": "Sustainable Energy Prioritization",
+      "description": "During a Smart Charging session, your car only charges when there's sufficient sustainable energy available, optimizing for the best possible price."
+    },
+    "financialRewards": {
+      "title": "Financial Rewards",
+      "description": "By participating in Smart Charging, users receive financial rewards, making sustainable energy choices beneficial for both the environment and your wallet."
+    },
+    "description": "Voltia Flex's Smart Charging solution optimizes your electric vehicle's charging process, ensuring you use sustainable energy at the best prices while contributing to grid stability.",
+    "registerBeta": "Register as Beta User"
+  },
+  "about": {
+    "title": "About Voltia Flex",
+    "paragraph1": "Voltia Flex was born from a vision of a sustainable future where electric vehicles play a crucial role in balancing our energy grid.",
+    "paragraph2": "As pioneers in Smart Charging technology, we've made it our mission to ensure that electric vehicles charge using only sustainable energy while providing maximum flexibility to our users.",
+    "paragraph3": "Our innovative Smart Charging solution paves the way for the future, ensuring that your car charges in the most sustainable and cost-efficient way possible. This helps prevent grid overload and accelerates the transition to a clean energy future."
+  },
+  "footer": {
+    "title": "We'd love to hear from you!",
+    "description": "If you use the Voltia Flex app, we would like to know your experience of it. Is there something we can improve?",
+    "email": "flex@voltia.com",
+    "linkedin": "Follow us on LinkedIn",
+    "faq": "For more information, visit our FAQ page.",
+    "joinBeta": "Join Our Beta Program"
+  },
+  "registration": {
+    "title": "Register for Early Access",
+    "backToHome": "Back to Home",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "evBrand": "EV Brand",
+    "selectEvBrand": "Select EV Brand",
+    "evModel": "EV Model",
+    "evBattery": "Battery (kWh)",
+    "evYear": "Year",
+    "energySupplier": "Energy Supplier",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "submit": "Register for Early Access",
+    "submitting": "Submitting...",
+    "submitError": "There was an error submitting the form. Please try again.",
+    "thankYou": "Thank You for Registering!",
+    "confirmation": "We've received your information and will be in touch soon about early access to Voltia Flex.",
+    "returnHome": "Return to Home"
+  }
+}

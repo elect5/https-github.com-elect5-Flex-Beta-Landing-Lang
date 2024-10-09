@@ -1,0 +1,86 @@
+{
+  "header": {
+    "features": "Funkcje",
+    "howItWorks": "Jak to działa",
+    "about": "O nas",
+    "contact": "Kontakt",
+    "join": "Dołącz"
+  },
+  "hero": {
+    "title": "Voltia Flex: Cashback za ładowanie EV",
+    "subtitle": "Zrewolucjonizuj swoje doświadczenie ładowania EV dzięki zrównoważonej energii i oszczędnościom.",
+    "getStarted": "Rozpocznij",
+    "learnMore": "Dowiedz się więcej"
+  },
+  "features": {
+    "title": "Dlaczego warto korzystać z inteligentnego ładowania Voltia Flex",
+    "earnMoney": {
+      "title": "Zarabiaj pieniądze",
+      "description": "Otrzymuj nagrody pieniężne za bilansowanie sieci z Voltia Flex."
+    },
+    "savePlanet": {
+      "title": "Chroń planetę",
+      "description": "Ładuj swój pojazd korzystając ze zrównoważonych źródeł energii."
+    },
+    "offPeakCharging": {
+      "title": "Ładowanie poza szczytem",
+      "description": "Oszczędzaj na rachunku za prąd, ładując w godzinach poza szczytem."
+    },
+    "softwareBased": {
+      "title": "100% oparte na oprogramowaniu",
+      "description": "Nie jest wymagany dodatkowy sprzęt do inteligentnego ładowania z Voltia Flex."
+    }
+  },
+  "howItWorks": {
+    "title": "Jak działa Voltia Flex",
+    "otaTechnology": {
+      "title": "Technologia Over-The-Air",
+      "description": "Voltia Flex wykorzystuje zaawansowaną technologię OTA do komunikacji z Twoim pojazdem elektrycznym, zapewniając płynne inteligentne ładowanie bez dodatkowego sprzętu."
+    },
+    "sustainableEnergy": {
+      "title": "Priorytetyzacja zrównoważonej energii",
+      "description": "Podczas sesji inteligentnego ładowania, Twój samochód ładuje się tylko wtedy, gdy dostępna jest wystarczająca ilość zrównoważonej energii, optymalizując najlepszą możliwą cenę."
+    },
+    "financialRewards": {
+      "title": "Nagrody finansowe",
+      "description": "Uczestnicząc w inteligentnym ładowaniu, użytkownicy otrzymują nagrody finansowe, co sprawia, że wybór zrównoważonej energii jest korzystny zarówno dla środowiska, jak i dla Twojego portfela."
+    },
+    "description": "Rozwiązanie inteligentnego ładowania Voltia Flex optymalizuje proces ładowania Twojego pojazdu elektrycznego, zapewniając korzystanie ze zrównoważonej energii po najlepszych cenach, jednocześnie przyczyniając się do stabilności sieci.",
+    "registerBeta": "Zarejestruj się jako użytkownik Beta"
+  },
+  "about": {
+    "title": "O Voltia Flex",
+    "paragraph1": "Voltia Flex narodziła się z wizji zrównoważonej przyszłości, w której pojazdy elektryczne odgrywają kluczową rolę w bilansowaniu naszej sieci energetycznej.",
+    "paragraph2": "Jako pionierzy w technologii inteligentnego ładowania, naszą misją jest zapewnienie, że pojazdy elektryczne ładują się wyłącznie przy użyciu zrównoważonej energii, zapewniając jednocześnie maksymalną elastyczność naszym użytkownikom.",
+    "paragraph3": "Nasze innowacyjne rozwiązanie inteligentnego ładowania toruje drogę do przyszłości, zapewniając, że Twój samochód ładuje się w najbardziej zrównoważony i efektywny kosztowo sposób. Pomaga to zapobiegać przeciążeniom sieci i przyspiesza przejście na czystą energię przyszłości."
+  },
+  "footer": {
+    "title": "Chcielibyśmy usłyszeć Twoją opinię!",
+    "description": "Jeśli korzystasz z aplikacji Voltia Flex, chcielibyśmy poznać Twoje doświadczenia. Czy jest coś, co możemy poprawić?",
+    "email": "flex@voltia.com",
+    "linkedin": "Śledź nas na LinkedIn",
+    "faq": "Aby uzyskać więcej informacji, odwiedź naszą stronę FAQ.",
+    "joinBeta": "Dołącz do naszego programu Beta"
+  },
+  "registration": {
+    "title": "Zarejestruj się, aby uzyskać wczesny dostęp",
+    "backToHome": "Powrót do strony głównej",
+    "firstName": "Imię",
+    "lastName": "Nazwisko",
+    "evBrand": "Marka EV",
+    "selectEvBrand": "Wybierz markę EV",
+    "evModel": "Model EV",
+    "evBattery": "Bateria (kWh)",
+    "evYear": "Rok produkcji",
+    "energySupplier": "Dostawca energii",
+    "address": "Adres",
+    "phone": "Telefon",
+    "email": "Email",
+    "submit": "Zarejestruj się, aby uzyskać wczesny dostęp",
+    "submitting": "Wysyłanie...",
+    "submitError": "Wystąpił błąd podczas wysyłania formularza. Proszę spróbować ponownie.",
+    "thankYou": "Dziękujemy za rejestrację!",
+    "confirmation": "Otrzymaliśmy Twoje informacje i wkrótce skontaktujemy się z Tobą w sprawie wczesnego dostępu do Voltia Flex.",
+    "returnHome": "Powrót do strony głównej"
+  }
+}

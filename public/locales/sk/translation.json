@@ -1,0 +1,86 @@
+{
+  "header": {
+    "features": "Funkcie",
+    "howItWorks": "Ako to funguje",
+    "about": "O nás",
+    "contact": "Kontakt",
+    "join": "Pridať sa"
+  },
+  "hero": {
+    "title": "Voltia Flex: Cashback za nabíjanie EV",
+    "subtitle": "Revolučná skúsenosť s nabíjaním EV s udržateľnou energiou a úsporou nákladov.",
+    "getStarted": "Začnite",
+    "learnMore": "Zistite viac"
+  },
+  "features": {
+    "title": "Prečo by ste mali používať Smart Charging s Voltia Flex",
+    "earnMoney": {
+      "title": "Zarábajte peniaze",
+      "description": "Získajte peňažné odmeny za vyvažovanie siete s Voltia Flex."
+    },
+    "savePlanet": {
+      "title": "Chráňte planétu",
+      "description": "Nabíjajte svoje vozidlo pomocou udržateľných zdrojov energie."
+    },
+    "offPeakCharging": {
+      "title": "Nabíjanie mimo špičky",
+      "description": "Ušetrite na účte za elektrinu nabíjaním mimo špičky."
+    },
+    "softwareBased": {
+      "title": "100% softvérové riešenie",
+      "description": "Pre inteligentné nabíjanie s Voltia Flex nie je potrebný žiadny dodatočný hardvér."
+    }
+  },
+  "howItWorks": {
+    "title": "Ako funguje Voltia Flex",
+    "otaTechnology": {
+      "title": "Technológia Over-The-Air",
+      "description": "Voltia Flex využíva pokročilú OTA technológiu na komunikáciu s vaším elektrickým vozidlom, zabezpečujúc plynulé inteligentné nabíjanie bez dodatočného hardvéru."
+    },
+    "sustainableEnergy": {
+      "title": "Prioritizácia udržateľnej energie",
+      "description": "Počas inteligentného nabíjania sa vaše auto nabíja len vtedy, keď je k dispozícii dostatok udržateľnej energie, optimalizujúc najlepšiu možnú cenu."
+    },
+    "financialRewards": {
+      "title": "Finančné odmeny",
+      "description": "Účasťou na inteligentnom nabíjaní používatelia získavajú finančné odmeny, čo robí voľbu udržateľnej energie prospešnou pre životné prostredie aj vašu peňaženku."
+    },
+    "description": "Riešenie inteligentného nabíjania Voltia Flex optimalizuje proces nabíjania vášho elektrického vozidla, zabezpečujúc využitie udržateľnej energie za najlepšie ceny a zároveň prispievajúc k stabilite siete.",
+    "registerBeta": "Zaregistrujte sa ako Beta užívateľ"
+  },
+  "about": {
+    "title": "O Voltia Flex",
+    "paragraph1": "Voltia Flex sa zrodila z vízie udržateľnej budúcnosti, kde elektrické vozidlá hrajú kľúčovú úlohu pri vyvažovaní našej energetickej siete.",
+    "paragraph2": "Ako priekopníci v technológii inteligentného nabíjania sme si dali za úlohu zabezpečiť, aby sa elektrické vozidlá nabíjali len pomocou udržateľnej energie a zároveň poskytovali maximálnu flexibilitu našim používateľom.",
+    "paragraph3": "Naše inovatívne riešenie inteligentného nabíjania pripravuje cestu do budúcnosti, zabezpečujúc, že vaše auto sa nabíja najudržateľnejším a nákladovo najefektívnejším spôsobom. To pomáha predchádzať preťaženiu siete a urýchľuje prechod na čistú energetickú budúcnosť."
+  },
+  "footer": {
+    "title": "Radi by sme od vás počuli!",
+    "description": "Ak používate aplikáciu Voltia Flex, radi by sme poznali vašu skúsenosť. Je niečo, čo môžeme zlepšiť?",
+    "email": "flex@voltia.com",
+    "linkedin": "Sledujte nás na LinkedIn",
+    "faq": "Pre viac informácií navštívte našu FAQ stránku.",
+    "joinBeta": "Pripojte sa k nášmu Beta programu"
+  },
+  "registration": {
+    "title": "Registrácia pre včasný prístup",
+    "backToHome": "Späť na domovskú stránku",
+    "firstName": "Meno",
+    "lastName": "Priezvisko",
+    "evBrand": "Značka EV",
+    "selectEvBrand": "Vyberte značku EV",
+    "evModel": "Model EV",
+    "evBattery": "Batéria (kWh)",
+    "evYear": "Rok výroby",
+    "energySupplier": "Dodávateľ energie",
+    "address": "Adresa",
+    "phone": "Telefón",
+    "email": "Email",
+    "submit": "Registrovať sa pre včasný prístup",
+    "submitting": "Odosielanie...",
+    "submitError": "Pri odosielaní formulára sa vyskytla chyba. Skúste to prosím znova.",
+    "thankYou": "Ďakujeme za registráciu!",
+    "confirmation": "Prijali sme vaše informácie a čoskoro vás budeme kontaktovať ohľadom včasného prístupu k Voltia Flex.",
+    "returnHome": "Návrat na domovskú stránku"
+  }
+}
